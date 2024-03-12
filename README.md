@@ -1,2 +1,2 @@
-# html-My-Resume
+# My Resume
 My resume fully in HTML
